@@ -1,0 +1,2 @@
+1 server (scicloud:m1.large) running both tomcat and mysql
+
